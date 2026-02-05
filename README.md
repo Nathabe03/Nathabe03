@@ -1,4 +1,4 @@
-## Olá! Eu me chamo Nathan, sou estudante de Análise e Desenvolvimento de Sistemas e atuante no mercado de TI 👋
+## Olá! Eu me chamo Nathan, sou estudante de Análise e Desenvolvimento de Sistemas, atuante no mercado de TI em busca da migração para DEV👋
 
 
 - 🔭 Atualmente curso faculdade em ADS com especificação em back-end e conhecimentos em front-end
