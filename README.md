@@ -1,7 +1,7 @@
-## Olá! Eu me chamo Nathan, sou estudante de Análise e Desenvolvimento de Sistemas, atuante no mercado de TI 👋
+## Estudante de Análise e Desenvolvimento de Sistemas, atuante no mercado de TI 👋
 
 
-- 🔭 Atualmente curso faculdade em ADS com especificação em back-end e conhecimentos em front-end
+- 🔭 Atualmente curso faculdade em ADS com especificação em back-end
 - 🌱 Estudando Typescript/JavaScript/APIs/Postman/ MYSQL e Análise de dados com IA
 - 😄 Pronouns: ele/dele
 - 🎯 Buscando minha migração de área como Desenvolvedor ou Analista de Dados com automação em IA.
