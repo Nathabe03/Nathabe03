@@ -1,4 +1,4 @@
-## Estudante de Análise e Desenvolvimento de Sistemas, atuante no mercado de TI 👋
+## Estudante de Análise e Desenvolvimento de Sistemas e atuante no mercado de TI 👋
 
 
 - 🔭 Atualmente curso faculdade em ADS com especificação em back-end
