@@ -4,7 +4,7 @@
 - 🔭 Atualmente curso faculdade em ADS com especificação em back-end
 - 🌱 Estudando Typescript/JavaScript/APIs/Postman/ MYSQL e Análise de dados com IA
 - 😄 Pronouns: ele/dele
-- 🎯 Buscando minha migração de área como Desenvolvedor ou Analista de Dados com automação em IA.
+- 🎯 Buscando minha migração de área como Desenvolvedor ou Analista de Dados com automação.
 
 <div>
   <a href="https://github.com/Nathabe03">
