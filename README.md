@@ -5,9 +5,9 @@
 - 😄 Pronouns: ele/dele
 - 🎯 Buscando minha migração de área como Desenvolvedor ou Analista de Dados com automação.
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathabe03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathabe03&layout=compact&langs_count=16&theme=tokyonight" />
+<div align="left">  
+  <img width="49%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api?username=imn4nda&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=radical" alt="Fernanda github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api/top-langs/?username=imn4nda&layout=compact&hide_border=true&bg_color=0d1117&theme=dracula" />
 </div>
 
 <div align="center">
