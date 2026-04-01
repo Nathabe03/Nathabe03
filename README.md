@@ -3,7 +3,7 @@
 - 🔭 Atualmente curso faculdade em ADS com especificação em back-end
 - 🌱 Estudando Typescript/JavaScript/APIs/Postman/ MYSQL e Análise de dados com IA
 - 😄 Pronouns: ele/dele
-- 🎯 Buscando minha migração de área como Desenvolvedor ou Analista de Dados com automação.
+- 🎯 Buscando minha migração como Desenvolvedor ou Analista de Dados com automação.
 
 <div align="left">  
   <img width="54%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api?username=Nathabe03&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=tokyonight" alt="Nathan github stats"/> 
@@ -19,6 +19,7 @@
   <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="Nat-GitBash" src="https://img.shields.io/badge/git%20bash-%23150531.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
 ---
