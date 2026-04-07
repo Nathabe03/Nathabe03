@@ -1,4 +1,4 @@
-Olá, me chamo Nathan Anjos, estudante de tecnologia e atuante no mercado de TI! 
+### Olá, me chamo Nathan Anjos, estudante de tecnologia e atuante no mercado de TI!
 
 ### Desenvolvedor Full Stack | Especialista em Automação & Backend
 
