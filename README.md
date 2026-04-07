@@ -10,7 +10,7 @@ Sou um profissional de tecnologia baseado no Rio de Janeiro, hoje estou construi
 ###  O que estou fazendo agora?
 
 * 🎓 **Acadêmico:** Cursando ADS (Estácio de Sá) com foco em arquitetura de sistemas e backend.
-* 💻 **Transição de Carreira:** Atuo no mercado de TI e estou migrando para o desenvolvimento de software e análise de dados.
+* 💻 **Transição de Carreira:** Atuo no mercado de TI e estou migrando para desenvolvimento de software e análise de dados.
 **Foco Técnico:** Especializando-me em **Node.js, TypeScript e Integração de APIs**.
 ### 📄 Currículo Profissional
 > **[Clique aqui para visualizar meu currículo completo em PDF](https://github.com/Nathabe03/Curriculo/blob/main/main.pdf)**
