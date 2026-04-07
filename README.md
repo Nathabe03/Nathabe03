@@ -1,8 +1,9 @@
-### Olá, me chamo Nathan Anjos, estudante de tecnologia e atuante no mercado de TI!
+Olá, me chamo **Nathan Anjos**, estudante de tecnologia e atuante no mercado de TI!
+
 
 ### Desenvolvedor com foco em Automação & Backend
 
-Sou um profissional de tecnologia baseado no Rio de Janeiro, atualmente focado em **Análise e Desenvolvimento de Sistemas**. Minha paixão é construir soluções que otimizem processos, desde APIs robustas até automações inteligentes que facilitam o dia a dia.
+Sou um profissional de tecnologia baseado no Rio de Janeiro, hoje estou construindo soluções que otimizem processos, desde APIs robustas até automações inteligentes que facilitam o dia a dia.
 
 ---
 
@@ -11,16 +12,14 @@ Sou um profissional de tecnologia baseado no Rio de Janeiro, atualmente focado e
 * 🎓 **Acadêmico:** Cursando ADS (Estácio de Sá) com foco em arquitetura de sistemas e backend.
 * 💻 **Transição de Carreira:** Atuo no mercado de TI e estou migrando para o desenvolvimento de software e análise de dados.
 **Foco Técnico:** Especializando-me em **Node.js, TypeScript e Integração de APIs**.
-
+### 📄 Currículo Profissional
+> **[Clique aqui para visualizar meu currículo completo em PDF](https://github.com/Nathabe03/Curriculo/blob/main/main.pdf)**
 ---
 
 ###  Toolbox (Minhas Habilidades)
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | JavaScript (ES6+), TypeScript, Python |
-| **Frontend** | HTML5, CSS3, React.js, Tailwind CSS |
-| **Backend & Dados** | Node.js, MySQL, PostgreSQL, Integração de APIs |
 | **Automação** | N8N, Workflow Automation, Postman |
 | **IA & Ferramentas** | Engenharia de Prompts, Llama-3 (Groq API), Git/GitHub |
 
