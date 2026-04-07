@@ -1,9 +1,38 @@
-## Estudante de Análise e Desenvolvimento de Sistemas e atuante no mercado de TI 👋
+Olá, me chamo Nathan Anjos, estudante de tecnologia e atuante no mercado de TI! 
 
-- 🔭 Atualmente curso faculdade em ADS com especificação em back-end
-- 🌱 Estudando Typescript/JavaScript/APIs/Postman/ MYSQL e Análise de dados com IA
-- 😄 Pronouns: ele/dele
-- 🎯 Buscando minha migração como Desenvolvedor ou Analista de Dados com automação.
+### Desenvolvedor Full Stack | Especialista em Automação & Backend
+
+Sou um profissional de tecnologia baseado no Rio de Janeiro, atualmente focado em **Análise e Desenvolvimento de Sistemas**. Minha paixão é construir soluções que otimizem processos, desde APIs robustas até automações inteligentes que facilitam o dia a dia.
+
+---
+
+###  O que estou fazendo agora?
+
+* 🎓 **Acadêmico:** Cursando ADS (Estácio de Sá) com foco em arquitetura de sistemas e backend.
+* 💻 **Transição de Carreira:** Atuo no mercado de TI e estou migrando para o desenvolvimento de software e análise de dados.
+**Foco Técnico:** Especializando-me em **Node.js, TypeScript e Integração de APIs**.
+
+---
+
+###  Toolbox (Minhas Habilidades)
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | JavaScript (ES6+), TypeScript, Python |
+| **Frontend** | HTML5, CSS3, React.js, Tailwind CSS |
+| **Backend & Dados** | Node.js, MySQL, PostgreSQL, Integração de APIs |
+| **Automação** | N8N, Workflow Automation, Postman |
+| **IA & Ferramentas** | Engenharia de Prompts, Llama-3 (Groq API), Git/GitHub |
+
+---
+
+### 📂 Projetos em Destaque
+
+#### ⚡ [CSS Gerador com IA](https://nathabe03.github.io/CSS-GERADOR-COM-IA/)
+Uma ferramenta web que utiliza a **Groq API** para gerar código CSS a partir de descrições em linguagem natural. Foco em UX e integração de serviços de IA.
+
+#### 🎬 [AnimeNet-flix](https://nathabe03.github.io/AnimeNet/)
+Interface inspirada em serviços de streaming com sistema de troca de temas (Dark/Light mode) e gerenciamento de perfis de usuário.
 
 <div align="left">  
   <img width="54%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api?username=Nathabe03&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=tokyonight" alt="Nathan github stats"/> 
