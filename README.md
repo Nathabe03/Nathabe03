@@ -29,7 +29,7 @@ Sou um profissional de tecnologia baseado no Rio de Janeiro, atualmente focado e
 ### 📂 Projetos em Destaque
 
 #### ⚡ [CSS Gerador com IA](https://nathabe03.github.io/CSS-GERADOR-COM-IA/)
-Uma ferramenta web que utiliza a **Groq API** para gerar código CSS a partir de descrições em linguagem natural. Foco em UX e integração de serviços de IA.
+Uma ferramenta web que utiliza a **Groq API** para gerar código CSS a partir de descrições em linguagem natural. Foco em UX e integração de serviços de IA (Para que funcione, copie o código e ponha sua KeyGroq como sinalizado no repositório)
 
 #### 🎬 [AnimeNet-flix](https://nathabe03.github.io/AnimeNet/)
 Interface inspirada em serviços de streaming com sistema de troca de temas (Dark/Light mode) e gerenciamento de perfis de usuário.
