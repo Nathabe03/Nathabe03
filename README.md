@@ -1,6 +1,6 @@
 ### Olá, me chamo Nathan Anjos, estudante de tecnologia e atuante no mercado de TI!
 
-### Desenvolvedor Full Stack | Especialista em Automação & Backend
+### Desenvolvedor com foco em Automação & Backend
 
 Sou um profissional de tecnologia baseado no Rio de Janeiro, atualmente focado em **Análise e Desenvolvimento de Sistemas**. Minha paixão é construir soluções que otimizem processos, desde APIs robustas até automações inteligentes que facilitam o dia a dia.
 
