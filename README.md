@@ -1,7 +1,7 @@
 Olá, me chamo **Nathan Anjos**, estudante de tecnologia e atuante no mercado de TI!
 
 
-### Desenvolvedor com foco em Automação & Backend
+### Desenvolvedor com foco em Backend & Automação 
 
 Sou um profissional de tecnologia baseado no Rio de Janeiro, hoje estou construindo soluções que otimizem processos, desde APIs robustas até automações inteligentes que facilitam o dia a dia.
 
