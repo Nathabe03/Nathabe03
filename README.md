@@ -1,4 +1,4 @@
-Olá, me chamo **Nathan Anjos**, estudante de tecnologia e atuante no mercado de TI!
+Olá, me chamo **Nathan**, estudante de tecnologia e atuante no mercado de TI!
 
 
 ### Desenvolvedor com foco em Backend & Automação 
