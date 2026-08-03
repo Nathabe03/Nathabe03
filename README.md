@@ -9,7 +9,7 @@ Sou um profissional de tecnologia baseado no Rio de Janeiro, hoje estou construi
 
 ###  O que estou fazendo agora?
 
-* 🎓 **Acadêmico:** Cursando ADS (Estácio de Sá) com foco em arquitetura de sistemas e backend.
+* 🎓 **Acadêmico:** Cursando ADS com foco em arquitetura de sistemas e backend.
 * 💻 **Transição de Carreira:** Atuo no mercado de TI e estou migrando para desenvolvimento de software e análise de dados.
 * **Foco Técnico:** Especializando-me em **Node.js, TypeScript, Python e Integração de APIs**.
 ### 📄 Currículo Profissional
